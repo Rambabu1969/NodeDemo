@@ -3,3 +3,8 @@ Deployment Procedure
 2. Extract .zip File to a Folder
 3. Go to Folder and install dependencies: npm install
 4. Run App: node index.js
+
+---
+AWS Windows EC2:
+1. Configure Firewall for 8080
+2. Configure Security Group at AWS Management Console (EC2) for 8080

@@ -1,3 +1,6 @@
+Pre-requisite:
+1. Node.js Runtime Environment Software - Download from https://nodejs.org and Install
+
 Deployment Procedure
 1. Download .zip file from GitHub Repository
 2. Extract .zip File to a Folder
